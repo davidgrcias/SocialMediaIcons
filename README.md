@@ -1,2 +1,0 @@
-# SocialMediaIcons
-Social Media Icons
